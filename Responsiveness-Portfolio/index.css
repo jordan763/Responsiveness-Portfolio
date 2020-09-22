@@ -1,0 +1,31 @@
+
+.navbar-brand {
+    background-color: lightseagreen;
+}
+
+.aboutme {
+   color: lightseagreen; 
+}
+
+.word {
+    font-weight: bold;
+}
+
+.
+
+.img {
+    float: left;
+    margin: 10px;
+}
+
+.foot {
+    background-color: grey;    
+    border-color: lightseagreen grey grey grey;
+    border-style: solid;
+    border-width: 10px;
+}
+
+.copy {
+    text-align: center;
+    color: lightgrey;
+}
