@@ -1,0 +1,37 @@
+.row {
+    margin: 5px;
+    padding: 5px;
+
+}
+
+body {
+    background-color: coral;
+}
+
+.aboutme,.navbar-brand {
+   color:red; 
+   
+}
+
+.word {
+    font-weight: bold;
+}
+
+.foot {
+    background-color:white;    
+    border-color:white;
+    border-style: solid;
+    position: absolute;
+    height: 150px;
+    width: 100%;
+
+}
+
+.copy {
+    text-align: center;
+    color: red;
+}
+
+.acc {
+    color: red;
+}
