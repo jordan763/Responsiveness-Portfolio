@@ -1,17 +1,16 @@
-
-.navbar-brand {
-    background-color: lightseagreen;
+body {
+    background-color: coral;
 }
 
-.aboutme {
-   color: lightseagreen; 
+.aboutme,.navbar-brand {
+   color:red; 
+   
 }
 
 .word {
     font-weight: bold;
 }
 
-.
 
 .img {
     float: left;
@@ -19,13 +18,20 @@
 }
 
 .foot {
-    background-color: grey;    
-    border-color: lightseagreen grey grey grey;
+    background-color:white;    
+    border-color:white;
     border-style: solid;
-    border-width: 10px;
+    position: absolute;
+    height: 150px;
+    width: 100%;
+
 }
 
 .copy {
     text-align: center;
-    color: lightgrey;
+    color: red;
+}
+
+.acc {
+    color: red;
 }
