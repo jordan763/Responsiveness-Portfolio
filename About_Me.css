@@ -1,0 +1,42 @@
+body {
+    background-color: coral;
+}
+
+.img {
+    float: left;
+    margin: 10px;
+}
+
+.aboutme,.navbar-brand {
+    color: black; 
+    
+ }
+ 
+ .word {
+     font-weight: bold;
+ }
+ 
+ .foot {
+     background-color:white;    
+     border-color:black white white white;
+     border-style: solid;
+     position: absolute;
+     height: 150px;
+     width: 100%;
+     
+ 
+ }
+ 
+ .copy {
+     text-align: center;
+     color: black;
+ }
+ 
+ .acc {
+     color:black;
+ }
+
+ .pictureSize{
+    height: 100px;
+    width: 100px;
+}
